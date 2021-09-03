@@ -1,0 +1,122 @@
+.right {
+    height: 85.2vh;
+    width: 83vw;
+    background-color: rosybrown;
+}
+
+.rightnav {
+    height: 10vh;
+    width: 82.2vw;
+    background-color: rosybrown;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.topbuttons {
+    background-color: lightgrey;
+    text-align: left;
+    height: 4vh;
+    width: 9vw;
+    display: flex;
+    align-items: center;
+    padding-left: 8px;
+    border: 1px solid gray;
+    border-radius: 2px;
+}
+
+.rightnav hr {
+    border: 0.2px solid darkslategray;
+    background-color: darkslategray;
+    width: 12vw;
+    height: 2px;
+    padding: 0 0;
+    margin-top: 24px;
+}
+
+.rightbottombox {
+    height: 75vh;
+    width: 81.5vw;
+    margin-left: 10px;
+    background-color: darkslategrey;
+    padding: 2px 4px;
+    border-radius: 3px;
+    color: white;
+}
+
+.box {
+    height: 50vh;
+    width: 35vw;
+    background-color: white;
+    color: darkslategray;
+    margin: auto;
+    margin-top: 10vh;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.inp {
+    height: 4vh;
+    width: 12vw;
+    margin-left: 2vw;
+}
+
+.btn {
+    color: white;
+    background-color: darkslategray;
+    font-size: medium;
+    border: 1px solid white;
+    padding: 6px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 2vh;
+}
+
+label {
+    background-color: gainsboro;
+    border: 1px solid lightgray;
+    padding: 4px;
+    font-size: medium;
+    padding: 5px 10px;
+    margin-left: 20px;
+    border-radius: 2px;
+    width: 8vw;
+    text-align: center;
+}
+
+input {
+    background-color: white;
+    border: 1px solid lightgray;
+    padding: 3px;
+    font-size: small;
+    border-radius: 2px;
+    text-align: center;
+}
+
+
+.lbl {
+    display: flex;
+    flex-direction: row;
+    margin-top: 2vh;
+    
+}
+
+.input {
+    background-color: white;
+    border: 1px solid lightgray;
+    padding: 3px;
+    font-size: small;
+    border-radius: 1px;
+}
+
+
+

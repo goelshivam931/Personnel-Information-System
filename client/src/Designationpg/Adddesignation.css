@@ -1,0 +1,96 @@
+.right {
+    height: 85.2vh;
+    width: 83vw;
+    background-color: rosybrown;
+}
+
+.rightnav {
+    height: 10vh;
+    width: 82.2vw;
+    background-color: rosybrown;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.topbuttons {
+    background-color: lightgrey;
+    text-align: left;
+    height: 4vh;
+    width: 9vw;
+    display: flex;
+    align-items: center;
+    padding-left: 8px;
+    border: 1px solid gray;
+    border-radius: 2px;
+}
+
+.rightnav hr {
+    border: 0.2px solid darkslategray;
+    background-color: darkslategray;
+    width: 22vw;
+    height: 2px;
+    padding: 0 0;
+    margin-top: 24px;
+}
+
+.rightbottombox {
+    height: 75vh;
+    width: 81.5vw;
+    margin-left: 10px;
+    background-color: darkslategrey;
+    padding: 2px 4px;
+    border-radius: 3px;
+    color: white;
+}
+
+.box{
+    height: 30vh;
+    width: 40vw;
+    background-color: white;
+    color: darkslategray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10vh;
+    border-radius: 6px;
+}
+
+.fr{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5vh;
+}
+
+.lbel {
+    background-color: gainsboro;
+    color: black;
+    border: 1px solid lightgray;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+    border-radius: 2px;
+    width: 10vw;
+}
+
+.inpt{
+      height: 4vh;
+      width: 12vw;
+}
+
+.bt{
+    color: white;
+    background-color: darkslategray;
+    margin-bottom: 5vh;
+    font-size: medium;
+    border: 2px solid white;
+    border-radius: 2px;
+    padding: 4px;
+    border-radius: 6px;
+    cursor: pointer;
+}

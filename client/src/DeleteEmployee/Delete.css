@@ -1,0 +1,65 @@
+.right {
+    height: 85.2vh;
+    width: 83vw;
+    background-color: rosybrown;
+}
+
+.rightnav {
+    height: 10vh;
+    width: 82.2vw;
+    background-color: rosybrown;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.topbuttons {
+    background-color: lightgrey;
+    text-align: left;
+    height: 4vh;
+    width: 9vw;
+    display: flex;
+    align-items: center;
+    padding-left: 8px;
+    border: 1px solid gray;
+    border-radius: 2px;
+}
+
+.rightnav hr {
+    border: 0.2px solid darkslategray;
+    background-color: darkslategray;
+    width: 12vw;
+    height: 2px;
+    padding: 0 0;
+    margin-top: 24px;
+}
+
+.rightbottombox {
+    height: 75vh;
+    width: 81.5vw;
+    margin-left: 10px;
+    background-color: darkslategrey;
+    padding: 2px 4px;
+    border-radius: 3px;
+    color: white;
+}
+
+.databox {
+    background-color: white;
+    height: 71vh;
+    width: 100%;
+    border-radius: 2px;
+}
+
+.databox Button {
+    margin-left: 10vw;
+    width: 20vw;
+}
+
+.frm {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    padding: 1.9vh;
+}

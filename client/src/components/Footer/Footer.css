@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: darkslategray;
+    height: 3.5vh;
+    width: 100vw;
+}
+
+.footer h5{
+    margin-left: 40px;
+    margin-right: 40px;
+    color: white;
+}
+

@@ -1,0 +1,115 @@
+.right {
+    height: 85.2vh;
+    width: 83vw;
+    background-color: rosybrown;
+}
+
+.rightnav {
+    height: 10vh;
+    width: 82.2vw;
+    background-color: rosybrown;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.topbuttons {
+    background-color: lightgrey;
+    text-align: left;
+    height: 4vh;
+    width: 9vw;
+    display: flex;
+    align-items: center;
+    padding-left: 8px;
+    border: 1px solid gray;
+    border-radius: 2px;
+}
+
+.rightnav hr {
+     border: 0.2px solid darkslategray;
+     background-color: darkslategray;
+     width: 12vw;
+     height: 2px;
+     padding: 0 0;
+     margin-top: 24px;
+}
+.rightbottombox {
+    height: 75vh;
+    width: 81.5vw;
+    margin-left: 10px;
+    background-color: darkslategrey;
+    padding: 2px 4px;
+    border-radius: 3px;
+    color: white;
+}
+
+.formbox {
+    height: 71.6vh;
+    width: 81.5vw;
+    background-color: white;
+    margin-top: 4px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    border: 1px solid wheat;
+    height: 70vh;
+    width: 99%;
+    margin-left: 8px;
+    padding-top: 8px;
+}
+
+.grid-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: white;
+    border: 1px solid lightgray;
+    font-size: 10px;
+    color: black;
+}
+
+.grid-item label {
+    background-color: gainsboro;
+    border: 1px solid lightgray;
+    padding: 4px;
+    font-size: small;
+    padding: 3px 30px;
+    border-radius: 1px;
+}
+
+.grid-item input {
+    background-color: white;
+    border: 1px solid lightgray;
+    padding: 3px;
+    font-size: small;
+    width: 11vw;
+    border-radius: 1px;
+    margin-right: 2px;
+}
+
+.grid-item img {
+    height: 50px;
+    width: 50px;
+    margin: auto;
+}
+
+.grid-item label {
+    display: flex;
+    flex-direction: column;
+}
+
+.tickprd {
+    display: flex;
+    flex-direction: row;
+    font-size: xx-small;
+}
+
+.btn {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,106 @@
+.modal-background{
+    width: 80%;
+    height: 70%;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-container{
+    height: 50vh;
+    width: 43vw;
+    border: 2px solid darkslategray;
+    background-color: lightcyan;
+}
+
+.modal-container h4{
+    padding: 5px 10px;
+}
+
+.m-l{
+    margin-left: 500px;
+    cursor: pointer;
+}
+
+.main-details{
+    display: flex;
+    flex-direction: row;
+}
+
+.details{
+    display: flex;
+    flex-direction: row;
+    height: 20vh;
+    width: 50%;
+    border: 1px solid black;
+}
+
+.detail-1{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+.detail-1 b{
+    margin-top: 10px;
+}
+
+.detail-2 {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+
+.detail-2 b {
+    margin-top: 10px;
+    color: darkgreen;
+    margin-left: 10px;
+}
+
+.pic{
+    height: 20vh;
+    width: 50%;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.prfl{
+    width: 60%;
+    height: 100%;
+}
+
+.other-details-full{
+    height: 4vh;
+    width: 99.8%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.other-details-half{
+    height: 4vh;
+    width: 50%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.half-details{
+    display: flex;
+    flex-direction: row;
+}
+
+.bluclr{
+    color: blue;
+    margin-left: 4px;
+}
+
+.drksltgry{
+    background-color: gray;
+    color: white;
+}

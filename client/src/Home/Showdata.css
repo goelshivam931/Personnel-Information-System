@@ -1,0 +1,92 @@
+.right {
+    height: 85.2vh;
+    width: 83vw;
+    background-color: rosybrown;
+}
+
+.rightnav {
+    height: 10vh;
+    width: 82.2vw;
+    background-color: rosybrown;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.topbuttons {
+    background-color: lightgrey;
+    text-align: left;
+    height: 4vh;
+    width: 9vw;
+    display: flex;
+    align-items: center;
+    padding-left: 8px;
+    border: 1px solid gray;
+    border-radius: 2px;
+}
+
+.rightnav hr {
+    border: 0.2px solid darkslategray;
+    background-color: darkslategray;
+    width: 12vw;
+    height: 2px;
+    padding: 0 0;
+    margin-top: 24px;
+}
+
+.rightbottombox {
+    height: 75vh;
+    width: 81.5vw;
+    margin-left: 10px;
+    background-color: darkslategrey;
+    padding: 2px 4px;
+    border-radius: 3px;
+    color: white;
+}
+
+.databox{
+    background-color: white;
+    height: 71vh;
+    width: 100%;
+    margin-top: 4px;
+    border-radius: 2px;
+}
+
+.searchrow{
+    background-color: aqua;
+    height: 8vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.data-table{
+    height: 63vh;
+    width: 100%;
+    overflow: auto;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
+    width: 99%;
+    margin-left: 6px;
+}
+
+.bclr .griditem{
+    background-color: darkslategray;
+    border: 1px solid white;
+    color: white;
+}
+
+.griditem {
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    color: black;
+    padding: 1px;
+    font-size: medium;
+    text-align: center;
+    width: 134px;
+}

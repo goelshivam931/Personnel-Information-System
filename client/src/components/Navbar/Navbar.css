@@ -1,0 +1,49 @@
+.nav{
+    height: 20%;
+    background-color: darkslategray;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-radius: 6px;
+}
+
+.navleft{
+    display: flex;
+    flex-direction: row;
+}
+
+.image{
+    height: 70px;
+    width: 70px;
+    margin: 5px 20px;
+}
+
+.navtext{
+    color: white;
+    font-size: medium;
+    margin-left: 10px;
+}
+
+.navtext h3, h5{
+    margin-top: 4px;
+}
+
+.navright{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+
+.navright img {
+    height: 50px;
+    width: 50px;
+    margin-bottom: 3px;
+}
+
+.navright h6{
+    margin-top: 0px;
+    text-align: center;
+    color: white;
+}
