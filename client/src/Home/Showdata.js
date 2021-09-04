@@ -39,9 +39,6 @@ const Showdata = () => {
                 <div className="topbuttons">
                     <Link to="/designdata"><h5>Add Designation</h5></Link>
                 </div>
-                <div className="topbuttons">
-                    <h5>Emp Info Connections</h5>
-                </div>
                 <hr />
             </div>
             <div className="rightbottombox">

@@ -3,7 +3,6 @@ import "./Leftnav.css";
 import Logo from "../Navbar/Logo.png";
 import HomeIcon from '@material-ui/icons/Home';
 import FormatAlignJustifyIcon from '@material-ui/icons/FormatAlignJustify';
-import SupervisorAccountIcon from '@material-ui/icons/SupervisorAccount';
 
 import {
     Link
@@ -39,18 +38,6 @@ const Leftnav = () => {
                 <div className="leftbox">
                     <FormatAlignJustifyIcon />
                     <Link to="/l-aas">  <h4>Admin and Allied Staff</h4></Link>
-                </div>
-                <div className="leftbox">
-                    <FormatAlignJustifyIcon />
-                    <h4>Officers</h4>
-                </div>
-                <div className="leftbox">
-                    <SupervisorAccountIcon />
-                    <h4>Ex-Employees</h4>
-                </div>
-                <div className="leftbox">
-                    <SupervisorAccountIcon />
-                    <h4>Organization Flow</h4>
                 </div>
             </div>
         </div>
