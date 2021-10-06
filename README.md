@@ -1,4 +1,4 @@
-# Personnel Management System
+# Personnel Information System
 
 I made this project during my internship at DRDO, using React, Node.js, Express & using MySQL as database. It is a full-stack CRUD Web Application that stores the records of employees and also help in managing & accessing them.
 
