@@ -1,78 +1,78 @@
 # Personnel Information System
 
-I made this project during my internship at DRDO, using React, Node.js, Express & using MySQL as database. It is a full-stack CRUD Web Application that stores the records of employees and also help in managing & accessing them.
+I made this project during my internship at DRDO, using React, Node.js, Express, and MySQL as the database. It is a full-stack CRUD Web Application that stores employees' records and also helps manage and access them.
 
 ## Home Page
 
-It basically shows the records of employees already stored in the database.
+It shows the records of employees already stored in the database.
 
-![Home Page](https://i.ibb.co/Jy9GHGK/1.png)
+![Home Page](https://drive.google.com/file/d/1_HC3RGHhhCPGsLGxszS7lA3oSGHijpze/view?usp=sharing)
 
 
 ## Edit Employee Details Page
 
-It basically helps in editing the records of the existing employees.
+It helps edit the records of existing employees.
 
-![Edit Employee Details Page](https://i.ibb.co/ZTGybGh/2.png)
+![Edit Employee Details Page](https://drive.google.com/file/d/1RWLUelw1tke1K5TWHUQjbQQASVqI2c8v/view?usp=sharing)
 
 ## Add New Employee Page
 
-It basically helps in adding a new employee to the database.
+It helps in adding a new employee to the database.
 
-![Add New Employee Page](https://i.ibb.co/fDhjHs4/3.png)
+![Add New Employee Page](https://drive.google.com/file/d/1tOyAFpTi3EdaWF-cRltQ6aAtlH7poC5V/view?usp=sharing)
 
 ## Delete Employee Page
 
-It basically helps in deleting the employee from the database.
+It helps in deleting the employee from the database.
 
-![Add New Employee Page](https://i.ibb.co/VjM9tLc/4.png)
+![Add New Employee Page](https://drive.google.com/file/d/1t9SSuXPLPpIQWbkBvvfp_aX_BGOMkn8T/view?usp=sharing)
 
 ## Add Group Page
 
-It basically helps in adding a new group to the database so that can be assigned to the employee while it is being added into the database.
+It helps add a new group to the database so that it can be assigned to an employee while it is being added.
 
-![Delete Employee Page](https://i.ibb.co/XZbjPKW/5.png)
+![Delete Employee Page](https://drive.google.com/file/d/1gcwdy323QqZKszRwTjB-K1Fk6fIvRvsB/view?usp=sharing)
 
 ## Add Designation Page
 
-It basically helps in adding a new designation to the database so that can be assigned to the employee while it is being added into the database.
+It helps in adding a new designation to the database so that can be assigned to the employee while it is being added into the database.
 
-![Add Designation Page](https://i.ibb.co/D5gH8dC/6.png)
+![Add Designation Page](https://drive.google.com/file/d/1wNJXXR0-q40MePco_0vJIljs4AJiAUCP/view?usp=sharing)
 
 
-## Now, Employees are divided on the basis of "CADRE" assigned to them while adding them into the database, into the specefic "CADRE" section from where each employee can be viewed distinctly.
+## Now, Employees are divided based on "CADRE" assigned to them while adding them into the database, into the specific "CADRE" section from where each employee can be viewed distinctly.
 
 
 ## DRDS Page
 
-It basically stores the details of all the exisiting employees whose "CADRE" is "DRDS".
+It stores the details of all the existing employees whose "CADRE" is "DRDS".
 
-![DRDS Page](https://i.ibb.co/6yM8xNw/7.png)
+![DRDS Page](https://drive.google.com/file/d/1iTI7sjcYdhLuwGrzjmK5fN7bOqGi_T04/view?usp=sharing)
 
 ## Now, for each "CADRE", each employee has been given an I-Card as well, where all his/her details are visible as a pop-up, that can be viewed by clicking the "eye-icon" next to each employee and can be closed by clicking to the "cross-icon" on top-right corner of each I-Card pop-up.
 
-![DRDS Pop-up Page](https://i.ibb.co/0fhG7K7/8.png)
+![DRDS Pop-up Page](https://drive.google.com/file/d/1tpq3E7xiD2QSEo4VVufijjT_pY3XSYrk/view?usp=sharing)
 
 
 ## DRTC Page
 
-It basically stores the details of all the exisiting employees whose "CADRE" is "DRTC".
+It stores the details of all the existing employees whose "CADRE" is "DRTC".
 
-![DRTC Page](https://i.ibb.co/BtR6d5R/9.pngg)
+![DRTC Page](https://drive.google.com/file/d/1Q7hZsYQ70xyK3-26KtDRZOdJ4CMyIrdG/view?usp=sharing)
 
 
 ## Admin & Allied Officer Page
 
-It basically stores the details of all the exisiting employees whose "CADRE" is "Admin & Allied Officer".
+It stores the details of all the existing employees whose "CADRE" is "Admin & Allied Officer".
 
-![Admin & Allied Officer Page](https://i.ibb.co/n1bxPgy/10.png)
+![Admin & Allied Officer Page](https://drive.google.com/file/d/1ZPjy-iByGnSMwkPUwb-cdZqsFef2iiQW/view?usp=sharing)
 
 
 ## Admin & Allied Staff Page
 
-It basically stores the details of all the exisiting employees whose "CADRE" is "Admin & Allied Staff".
+It stores the details of all the existing employees whose "CADRE" is "Admin & Allied Staff".
 
-![Admin & Allied Staff Page](https://i.ibb.co/MNsymNJ/11.png)
+![Admin & Allied Staff Page](https://drive.google.com/file/d/1-S5pw4IdcCFxKGkg3UtJ6MGPM6Sxmack/view?usp=sharing)
 
 
 
