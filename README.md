@@ -1,6 +1,6 @@
 # Personnel Information System
 
-I made this project during my internship at DRDO, using React, Node.js, Express, and MySQL as the database. It is a full-stack CRUD Web Application that stores employees' records and also helps manage and access them.
+I created this project during my internship at DRDO using React, Node.js, Express, and MySQL as the database. It is a full-stack CRUD Web Application that stores employees' records and helps in managing and accessing them.
 
 ## Home Page
 
@@ -13,67 +13,73 @@ It shows the records of employees already stored in the database.
 
 It helps edit the records of existing employees.
 
-![Edit Employee Details Page](https://drive.google.com/file/d/1RWLUelw1tke1K5TWHUQjbQQASVqI2c8v/view?usp=sharing)
+![Edit Employee Details Page](https://github.com/goelshivam931/Personnel-Information-System/blob/master/sample_images/Picture2.png)
 
 ## Add New Employee Page
 
 It helps in adding a new employee to the database.
 
-![Add New Employee Page](https://drive.google.com/file/d/1tOyAFpTi3EdaWF-cRltQ6aAtlH7poC5V/view?usp=sharing)
+![Add New Employee Page](https://github.com/goelshivam931/Personnel-Information-System/blob/master/sample_images/Picture3.png)
 
 ## Delete Employee Page
 
 It helps in deleting the employee from the database.
 
-![Add New Employee Page](https://drive.google.com/file/d/1t9SSuXPLPpIQWbkBvvfp_aX_BGOMkn8T/view?usp=sharing)
+![Add New Employee Page](https://github.com/goelshivam931/Personnel-Information-System/blob/master/sample_images/Picture4.png)
 
 ## Add Group Page
 
 It helps add a new group to the database so that it can be assigned to an employee while it is being added.
 
-![Delete Employee Page](https://drive.google.com/file/d/1gcwdy323QqZKszRwTjB-K1Fk6fIvRvsB/view?usp=sharing)
+![Delete Employee Page](https://github.com/goelshivam931/Personnel-Information-System/blob/master/sample_images/Picture5.png)
 
 ## Add Designation Page
 
-It helps in adding a new designation to the database so that can be assigned to the employee while it is being added into the database.
+It helps add a new designation to the database so that it can be assigned to the employee while it is being added.
 
-![Add Designation Page](https://drive.google.com/file/d/1wNJXXR0-q40MePco_0vJIljs4AJiAUCP/view?usp=sharing)
+![Add Designation Page](https://github.com/goelshivam931/Personnel-Information-System/blob/master/sample_images/Picture6.png)
 
 
-## Now, Employees are divided based on "CADRE" assigned to them while adding them into the database, into the specific "CADRE" section from where each employee can be viewed distinctly.
+## Now, employees are divided based on "CADRE" assigned to them while adding them into the database, into the specific "CADRE" section from which each employee can be viewed distinctly.
 
 
 ## DRDS Page
 
 It stores the details of all the existing employees whose "CADRE" is "DRDS".
 
-![DRDS Page](https://drive.google.com/file/d/1iTI7sjcYdhLuwGrzjmK5fN7bOqGi_T04/view?usp=sharing)
+![DRDS Page](https://github.com/goelshivam931/Personnel-Information-System/blob/master/sample_images/Picture7.png)
 
 ## Now, for each "CADRE", each employee has been given an I-Card as well, where all his/her details are visible as a pop-up, that can be viewed by clicking the "eye-icon" next to each employee and can be closed by clicking to the "cross-icon" on top-right corner of each I-Card pop-up.
 
-![DRDS Pop-up Page](https://drive.google.com/file/d/1tpq3E7xiD2QSEo4VVufijjT_pY3XSYrk/view?usp=sharing)
+![DRDS Pop-up Page](https://github.com/goelshivam931/Personnel-Information-System/blob/master/sample_images/Picture12.png)
 
 
 ## DRTC Page
 
 It stores the details of all the existing employees whose "CADRE" is "DRTC".
 
-![DRTC Page](https://drive.google.com/file/d/1Q7hZsYQ70xyK3-26KtDRZOdJ4CMyIrdG/view?usp=sharing)
+![DRTC Page](https://github.com/goelshivam931/Personnel-Information-System/blob/master/sample_images/Picture8.png)
 
 
 ## Admin & Allied Officer Page
 
 It stores the details of all the existing employees whose "CADRE" is "Admin & Allied Officer".
 
-![Admin & Allied Officer Page](https://drive.google.com/file/d/1ZPjy-iByGnSMwkPUwb-cdZqsFef2iiQW/view?usp=sharing)
+![Admin & Allied Officer Page](https://github.com/goelshivam931/Personnel-Information-System/blob/master/sample_images/Picture9.png)
 
 
 ## Admin & Allied Staff Page
 
 It stores the details of all the existing employees whose "CADRE" is "Admin & Allied Staff".
 
-![Admin & Allied Staff Page](https://drive.google.com/file/d/1-S5pw4IdcCFxKGkg3UtJ6MGPM6Sxmack/view?usp=sharing)
+![Admin & Allied Staff Page](https://github.com/goelshivam931/Personnel-Information-System/blob/master/sample_images/Picture10.png)
 
+
+## MySQL database
+
+MySQL database is used to maintain employees' records in the EMPLOYEE table.
+
+![Employee Table](https://github.com/goelshivam931/Personnel-Information-System/blob/master/sample_images/Picture11.png)
 
 
 
