@@ -6,7 +6,7 @@ I made this project during my internship at DRDO, using React, Node.js, Express,
 
 It shows the records of employees already stored in the database.
 
-![Home Page](https://drive.google.com/file/d/1_HC3RGHhhCPGsLGxszS7lA3oSGHijpze/view?usp=sharing)
+![Home Page](https://github.com/goelshivam931/Personnel-Information-System/blob/master/sample_images/Picture1.png)
 
 
 ## Edit Employee Details Page
